@@ -1,8 +1,6 @@
 # Cybersecurity Thesis Lab
 
-Repository tecnico a supporto della tesi magistrale in Sicurezza Informatica.
-
-## Titolo della tesi
+## Detection degli attacchi Living-off-the-Land tramite feature engineering e modelli di Machine Learning.
 
 **Rilevazione e analisi di tecniche Living-off-the-Land mediante telemetria, digital forensics e supporto quantitativo**
 
